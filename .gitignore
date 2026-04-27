@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# ML / data artifacts
+mlruns/
+*.pkl
+*.joblib
+*.model
+data/
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+.docker/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Git
+.git/
+
+# Environment variables
+.env
